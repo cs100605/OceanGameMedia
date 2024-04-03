@@ -2,7 +2,7 @@
 <p>Testing a different foliage method, this time using an opaque rendering method, preventing overdraw on the GPU.</p>
 <img src="OceanGame_4_3_2024_12_28_28_AM.png" width="512">
 
-
+<br/> 
 
 <p>Testing foliage with VFX graph, this method of drawing the alpha resulted in a ton of overdraw, increasing GPU times. Foam and ripples added to enhance the look of the ocean surface from below.</p>
 <img src="OceanGame_4_2_2024_11_11_27_PM.png" width="512">

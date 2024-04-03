@@ -1,4 +1,10 @@
 <h1>April Week 1</h1>
+
+<p>Adding a player controller to the game, very barebones at this point</p>
+<img src="OceanGame - OutdoorsScene - Windows, Mac, Linux - Unity 2022.3.20f1 _DX11_ 4_3_2024 4_41_57 PM.png" width="512">
+
+<br/> 
+
 <p>Testing a different foliage method, this time using an opaque rendering method, preventing overdraw on the GPU.</p>
 <img src="OceanGame_4_3_2024_12_28_28_AM.png" width="512">
 

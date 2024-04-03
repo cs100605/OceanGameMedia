@@ -1,8 +1,11 @@
 <h1>April Week 1</h1>
 <img src="OceanGame_4_3_2024_12_28_28_AM.png" width="512">
 <img src="OceanGame_4_2_2024_11_11_27_PM.png" width="512">
+
+Also Testing bubbles and terrain textures
 <img src="OceanGame_4_1_2024_11_53_17_PM.png" width="512">
 
+Testing bubbles and terrain textures
 <img src="OceanGame_4_1_2024_11_52_02_PM.png" width="512">
 
 Testing HDRP and the artstyle that is planned, and faking volumetric lighting with VFX graph

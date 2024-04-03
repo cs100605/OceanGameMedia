@@ -1,5 +1,5 @@
 <h1>April Week 1</h1>
-<img src="OceanGame_4_3_2024_12_28_28_AM.png">
+<img src="OceanGame_4_3_2024_12_28_28_AM.png" width="512">
 <img src="OceanGame_4_2_2024_11_11_27_PM.png">
 <img src="OceanGame_4_1_2024_11_53_17_PM.png">
 

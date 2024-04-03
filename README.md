@@ -1,4 +1,5 @@
 <h1>April Week 1</h1>
+<p>Testing a different foliage method, this time using an opaque rendering method, preventing overdraw on the GPU</p>
 <img src="OceanGame_4_3_2024_12_28_28_AM.png" width="512">
 
 <p>Testing foliage, this method of drawing the alpha resulted in a ton of overdraw, increasing GPU times</p>

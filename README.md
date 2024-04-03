@@ -1,3 +1,9 @@
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 <h1>April Week 1</h1>
 <img src="OceanGame_4_3_2024_12_28_28_AM.png" width="512" class="center">
 <img src="OceanGame_4_2_2024_11_11_27_PM.png" width="512" class="center">

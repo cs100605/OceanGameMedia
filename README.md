@@ -1,6 +1,12 @@
 <h1>April Week 1</h1>
 
-<p>Adding a player controller to the game, very barebones at this point</p>
+<p>Testing the kelp shader, seems to work for now, but it will need to offset the wave function by world position to make them move differently from each other.</p>
+<img src="OceanGame 4_3_2024 10_47_20 PM.png" width="512">
+<img src="OceanGame 4_3_2024 10_47_28 PM.png" width="512">
+
+<br/> 
+
+<p>Adding a player controller to the game, very barebones at this point.</p>
 <img src="OceanGame - OutdoorsScene - Windows, Mac, Linux - Unity 2022.3.20f1 _DX11_ 4_3_2024 4_41_57 PM.png" width="512">
 
 <br/> 
@@ -15,7 +21,7 @@
 
 <br/>
 
-<p>Also Testing bubbles and terrain textures.</p>
+<p>Also testing bubbles and terrain textures.</p>
 <img src="OceanGame_4_1_2024_11_53_17_PM.png" width="512">
 
 <br/>

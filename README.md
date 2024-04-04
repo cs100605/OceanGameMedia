@@ -1,12 +1,17 @@
 <h1>April Week 1</h1>
 
-<p>Testing the kelp shader, seems to work for now, but it will need to offset the wave function by world position to make them move differently from each other.</p>
+<p>Kelp is now offset by the world position for the wave function, added a color modifier, and fixed a weird problem with ambient occlusion on the kelp.</p>
+<img src="OceanGame 4_4_2024 1_55_26 PM.png" width="512">
+
+<br/> 
+
+<p>Testing the kelp shader works for now, but it will need to offset the wave function by world position to make them move differently from each other.</p>
 <img src="OceanGame 4_3_2024 10_47_20 PM.png" width="512">
 <img src="OceanGame 4_3_2024 10_47_28 PM.png" width="512">
 
 <br/> 
 
-<p>Adding a player controller to the game, very barebones at this point.</p>
+<p>Adding a player controller to the game, is very barebones at this point.</p>
 <img src="OceanGame - OutdoorsScene - Windows, Mac, Linux - Unity 2022.3.20f1 _DX11_ 4_3_2024 4_41_57 PM.png" width="512">
 
 <br/> 
@@ -16,7 +21,7 @@
 
 <br/> 
 
-<p>Testing foliage with VFX graph, this method of drawing the alpha resulted in a ton of overdraw, increasing GPU times. Foam and ripples added to enhance the look of the ocean surface from below.</p>
+<p>Testing foliage with VFX graph, this method of drawing the alpha resulted in a ton of overdraw, increasing GPU times. Foam and ripples are added to enhance the ocean surface's look from below.</p>
 <img src="OceanGame_4_2_2024_11_11_27_PM.png" width="512">
 
 <br/>
@@ -26,12 +31,12 @@
 
 <br/>
 
-<p>Testing bubbles, terrain textures, and post processing effects.</p>
+<p>Testing bubbles, terrain textures, and post-processing effects.</p>
 <img src="OceanGame_4_1_2024_11_52_02_PM.png" width="512">
 
 <br/>
 
-<p>Testing HDRP and the artstyle that is planned, and faking volumetric lighting with VFX graph</p>
+<p>Testing HDRP and the art style that is planned, and faking volumetric lighting with VFX graph</p>
 <img src="OceanGame_4_1_2024_12_24_37_AM.png" width="512">
 
 <br/>

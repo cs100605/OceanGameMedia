@@ -1,6 +1,6 @@
 <h1>April Week 1</h1>
 
-<p>I'm Still not completely happy with the changes here yet on the water and caustics, but the performance is so many leagues better than the typical HDRP water, it could be possible to have the HDRP water as an option in the settings if the user desired.</p>
+<p>I'm Still not completely happy with the changes on the water and caustics, but the performance is so many leagues better than the typical HDRP water. It could definitely be possible to have the HDRP water as an option in the settings if the user desires.</p>
 <img src="OceanGame 4_6_2024 4_55_19 PM.png" width="512">
 <img src="OceanGame 4_6_2024 4_55_31 PM.png" width="512">
 

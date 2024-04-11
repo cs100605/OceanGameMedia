@@ -1,6 +1,6 @@
 <h1>April Week 2</h1>
 
-<p>Flocking fish, courtesy of https://github.com/abecombe/VFXGraphStudy had to change the update of the fish rendering away from the fixed update to a regular update loop to remove jitter.</p>
+<p>Flocking fish, courtesy of https://github.com/abecombe/VFXGraphStudy. Had to change the update of the fish rendering away from the fixed update to a regular update loop to remove jitter.</p>
 <img src="OceanGame 4_11_2024 2_06_46 PM.png" width="512">
 
 <br/> 

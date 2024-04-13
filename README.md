@@ -1,6 +1,6 @@
 <h1>April Week 2</h1>
 
-<p>Adding some arms with IK, ViewModel shader found here: https://forum.unity.com/threads/fps-sample-shader-graph-for-weapon-fov-not-working.576796/</p>
+<p>Adding some arms with IK, view model shader found here: https://forum.unity.com/threads/fps-sample-shader-graph-for-weapon-fov-not-working.576796/</p>
 <img src="FishAndWave.gif" width="512">
 
 <br/> 

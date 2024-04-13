@@ -1,5 +1,10 @@
 <h1>April Week 2</h1>
 
+<p>Adding some arms with IK, ViewModel shader found here: https://forum.unity.com/threads/fps-sample-shader-graph-for-weapon-fov-not-working.576796/</p>
+<img src="FishAndWave.gif" width="512">
+
+<br/> 
+
 <p>Flocking fish, courtesy of https://github.com/abecombe/VFXGraphStudy. Had to change the update of the fish rendering away from the fixed update to a regular update loop to remove jitter.</p>
 <img src="OceanGame 4_11_2024 2_06_46 PM.png" width="512">
 

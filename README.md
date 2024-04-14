@@ -1,5 +1,10 @@
 <h1>April Week 2</h1>
 
+<p>Experimenting with reloading animations and weapon view models.</p>
+<img src="FishAndReload.gif" width="512">
+
+<br/> 
+
 <p>Adding some arms with IK, view model shader found here: https://forum.unity.com/threads/fps-sample-shader-graph-for-weapon-fov-not-working.576796/</p>
 <img src="FishAndWave.gif" width="512">
 

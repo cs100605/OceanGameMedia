@@ -1,3 +1,10 @@
+<h1>May Week 1</h1>
+
+<p>Experimenting with texturing, modified the kelp, ground cover additions, added crosshair.</p>
+<img src="OceanGame 5_3_2024 10_09_07 PM.png" width="512">
+
+<br/> 
+
 <h1>April Week 2</h1>
 
 <p>Experimenting with reloading animations and weapon view models.</p>

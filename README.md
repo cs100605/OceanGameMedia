@@ -1,3 +1,11 @@
+<h1>October Week 4</h1>
+
+<p>Experimenting with Quixel Megascan assets and boss rooms.</p>
+<img src="OceanGame 10_25_2024 7_17_02 PM.png" width="512">
+<img src="OceanGame 10_25_2024 7_17_40 PM.png" width="512">
+
+<br/> 
+
 <h1>May Week 1</h1>
 
 <p>Experimenting with texturing, modified the kelp, ground cover additions, added crosshair.</p>

@@ -1,4 +1,14 @@
 <h1>October Week 4</h1>
+<p>Adding different kelp lengths, and grass LODs for performance.</p>
+<img src="OceanGame 10_26_2024 6_11_22 PM.png" width="512">
+<img src="OceanGame 10_26_2024 6_11_30 PM.png" width="512">
+<img src="OceanGame 10_26_2024 6_11_42 PM.png" width="512">
+<img src="OceanGame 10_26_2024 6_11_59 PM.png" width="512">
+<img src="OceanGame 10_26_2024 6_12_16 PM.png" width="512">
+<img src="OceanGame 10_26_2024 6_12_27 PM.png" width="512">
+
+
+<br/> 
 
 <p>Experimenting with Quixel Megascan assets and boss rooms.</p>
 <img src="OceanGame 10_25_2024 7_17_02 PM.png" width="512">

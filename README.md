@@ -1,3 +1,14 @@
+<h1>November Week 1</h1>
+<p>Complete transition to the URP version of Unity 6, boosting performance by a significant margin.
+Brightened the scene in general to make it look less bleak.</p>
+<img src="OceanGameTestURP 11_1_2024 2_33_04 PM.png" width="512">
+<img src="OceanGameTestURP 11_1_2024 2_33_11 PM.png" width="512">
+<img src="OceanGameTestURP 11_1_2024 2_33_17 PM.png" width="512">
+<img src="OceanGameTestURP 11_1_2024 2_33_24 PM.png" width="512">
+<img src="OceanGameTestURP 11_1_2024 2_33_32 PM.png" width="512">
+
+<br/> 
+
 <h1>October Week 4</h1>
 <p>Adding different kelp lengths, and grass LODs for performance.</p>
 <img src="OceanGame 10_26_2024 6_11_22 PM.png" width="512">

@@ -1,5 +1,5 @@
 <h1>November Week 1</h1>
-<p>Added coral details to the arena, provided by Quixel<p>
+<p>Added coral details to the arena, provided by Quixel</p>
 <img src="OceanGameTestURP 11_2_2024 11_59_03 PM.png" width="512">
 <img src="OceanGameTestURP 11_2_2024 11_58_54 PM.png" width="512">
 <img src="OceanGameTestURP 11_2_2024 11_58_47 PM.png" width="512">

@@ -1,3 +1,9 @@
+<h1>December Week 4</h1>
+<p>Testing a stylization with pixelation, added dashing and improved movement.</p>
+<img src="Hadal_Dash.gif" width="512">
+
+<br/>
+
 <h1>November Week 1</h1>
 <p>Testing a stylization dither shader, might be a little extreme on the color banding and such for now.</p>
 <img src="Hadal 11_4_2024 10_36_42 PM.png" width="512">

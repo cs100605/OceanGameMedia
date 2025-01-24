@@ -1,3 +1,12 @@
+<h1>January Week 3</h1>
+<p>Implemented a rock ground attack, does no damage currently, but does knockback and looks cool.</p>
+<img src="Hadal 1_24_2025 10_26_30 AM.png" width="512">
+<img src="Hadal 1_24_2025 10_26_31 AM.png" width="512">
+<img src="Hadal 1_24_2025 10_26_33 AM.png" width="512">
+
+
+<br/>
+
 <h1>December Week 4</h1>
 <p>Testing a stylization with pixelation, added dashing and improved movement.</p>
 <img src="Hadal_Dash.gif" width="512">

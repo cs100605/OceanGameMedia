@@ -1,3 +1,13 @@
+<h1>March Week 4</h1>
+<p>Kinda forgot to update this, but I've added enemy AI, parrying, proper weapon switching, health bars, light edge stylization, made gun model take up more screen real estate.</p>
+<img src="Screenshot 2025-03-22 223705.png" width="512">
+<img src="Screenshot 2025-03-22 223717.png" width="512">
+<img src="Screenshot 2025-03-22 223802.png" width="512">
+<img src="Screenshot 2025-03-22 224018.png" width="512">
+
+
+<br/>
+
 <h1>January Week 4</h1>
 <p>Implemented hands with overlay camera in URP.</p>
 <img src="Hadal 1_27_2025 9_37_43 PM.png" width="512">

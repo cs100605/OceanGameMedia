@@ -1,4 +1,12 @@
 <h1>March Week 4</h1>
+
+<br/>
+
+<p>A better example of the edge stylization that was added.</p>
+<img src="Hadal 3_23_2025 3_49_10 PM.png" width="512">
+
+<br/>
+
 <p>Kinda forgot to update this, but I've added enemy AI, parrying, proper weapon switching, health bars, light edge stylization, made gun model take up more screen real estate.</p>
 <img src="Screenshot 2025-03-22 223705.png" width="512">
 <img src="Screenshot 2025-03-22 223717.png" width="512">

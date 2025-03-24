@@ -1,7 +1,5 @@
 <h1>March Week 4</h1>
 
-<br/>
-
 <p>Added some cool pillars, and a grounding force (keeps player stuck to slopes when moving on them).</p>
 <img src="Media/Hadal 3_23_2025 10_12_54 PM.png" width="512">
 

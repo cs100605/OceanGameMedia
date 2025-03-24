@@ -1,4 +1,7 @@
-<h1>March Week 4</h1>
+<h1>2025</h1>
+<br/>
+
+<h2>March Week 4</h2>
 
 <p>Added some cool pillars, and a grounding force (keeps player stuck to slopes when moving on them).</p>
 <img src="Media/Hadal 3_23_2025 10_12_54 PM.png" width="512">
@@ -21,14 +24,14 @@
 
 <br/>
 
-<h1>January Week 4</h1>
+<h2>January Week 4</h2>
 <p>Implemented hands with overlay camera in URP.</p>
 <img src="Media/Hadal 1_27_2025 9_37_43 PM.png" width="512">
 <img src="Media/Hadal 1_27_2025 9_37_55 PM.png" width="512">
 
 <br/>
 
-<h1>January Week 3</h1>
+<h2>January Week 3</h2>
 <p>Implemented a rock ground attack, does no damage currently, but does knockback and looks cool.</p>
 <img src="Media/Hadal 1_24_2025 10_26_30 AM.png" width="512">
 <img src="Media/Hadal 1_24_2025 10_26_31 AM.png" width="512">
@@ -37,13 +40,16 @@
 
 <br/>
 
-<h1>December Week 4</h1>
+<h1>2024</h1>
+<br/>
+
+<h2>December Week 4</h2>
 <p>Testing a stylization with pixelation, added dashing and improved movement.</p>
 <img src="Media/Hadal_Dash.gif" width="512">
 
 <br/>
 
-<h1>November Week 1</h1>
+<h2>November Week 1</h2>
 <p>Testing a stylization dither shader, might be a little extreme on the color banding and such for now.</p>
 <img src="Media/Hadal 11_4_2024 10_36_42 PM.png" width="512">
 
@@ -66,7 +72,7 @@ Brightened the scene in general to make it look less bleak.</p>
 
 <br/> 
 
-<h1>October Week 4</h1>
+<h2>October Week 4</h2>
 <p>Adding different kelp lengths, and grass LODs for performance.</p>
 <img src="Media/OceanGame 10_26_2024 6_11_22 PM.png" width="512">
 <img src="Media/OceanGame 10_26_2024 6_11_30 PM.png" width="512">
@@ -84,14 +90,14 @@ Brightened the scene in general to make it look less bleak.</p>
 
 <br/> 
 
-<h1>May Week 1</h1>
+<h2>May Week 1</h2>
 
 <p>Experimenting with texturing, modified the kelp, ground cover additions, added crosshair.</p>
 <img src="Media/OceanGame 5_3_2024 10_09_07 PM.png" width="512">
 
 <br/> 
 
-<h1>April Week 2</h1>
+<h2>April Week 2</h2>
 
 <p>Experimenting with reloading animations and weapon view models.</p>
 <img src="Media/FishAndReload.gif" width="512">
@@ -108,7 +114,7 @@ Brightened the scene in general to make it look less bleak.</p>
 
 <br/> 
 
-<h1>April Week 1</h1>
+<h2>April Week 1</h2>
 
 <p>Went for a more pixelated stylized look, and I'm actually really happy with how this turned out.</p>
 <img src="Media/OceanGame 4_6_2024 6_51_46 PM.png" width="512">
@@ -163,7 +169,7 @@ Brightened the scene in general to make it look less bleak.</p>
 
 <br/>
 
-<h1>March Week 4</h1>
+<h2>March Week 4</h2>
 <p>URP test, found to be difficult to add caustics to surfaces receiving main light, so URP is cut.</p>
 <img src="Media/image1.png" width="512">
 

@@ -2,6 +2,13 @@
 
 <br/>
 
+<p>Added some cool pillars, and a grounding force (keeps player stuck to slopes when moving on them).</p>
+<img src="Hadal 3_23_2025 10_12_54 PM.png" width="512">
+
+<br/>
+
+<br/>
+
 <p>A better example of the edge stylization that was added.</p>
 <img src="Hadal 3_23_2025 3_49_10 PM.png" width="512">
 

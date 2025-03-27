@@ -3,10 +3,13 @@
 
 <h2>March Week 4</h2>
 
-<p>Added some cool pillars, and a grounding force (keeps player stuck to slopes when moving on them).</p>
-<img src="Media/Hadal 3_23_2025 10_12_54 PM.png" width="512">
+<p>Additional tweaks to stylization, increased thickness of edge, decreased intensity of normal maps.</p>
+<img src="Media/Hadal 3_26_2025 9_38_06 PM.png" width="512">
 
 <br/>
+
+<p>Added some cool pillars, and a grounding force (keeps player stuck to slopes when moving on them).</p>
+<img src="Media/Hadal 3_23_2025 10_12_54 PM.png" width="512">
 
 <br/>
 
